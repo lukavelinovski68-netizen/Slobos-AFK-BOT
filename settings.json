@@ -8,12 +8,12 @@
   "server": {
     "ip": "Crypton_Planet.aternos.me",
     "port":54593,
-    "version": "1.21.1"
+    "version": "1.16.5"
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 65,
     "z": 0
   },
   "utils": {
@@ -27,7 +27,7 @@
     },
     "chat-messages": {
       "enabled": false,
-      "repeat": false,
+      "repeat": true,
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
